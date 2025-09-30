@@ -9,3 +9,6 @@
 @import "./utilitarios/componentes.css";
 @import "./utilitarios/tipografia.css";
 @import "./utilitarios/cores.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
