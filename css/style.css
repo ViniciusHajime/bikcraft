@@ -9,6 +9,9 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
+/* Orçamento */
+@import "./orcamento/orcamento.css";
+
 /* Utilitarios */
 @import "./utilitarios/componentes.css";
 @import "./utilitarios/tipografia.css";
@@ -33,4 +36,3 @@
 
 /* Termos */
 @import "./termos/termos.css";
-
